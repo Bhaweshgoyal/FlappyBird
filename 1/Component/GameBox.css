@@ -1,0 +1,9 @@
+.game_Box {
+  background-color: white;
+  border: 10px solid black;
+  /* margin-left:890px ; */
+  position: relative;
+  overflow: hidden;
+  width: 700px;
+  height: 400px;
+}
